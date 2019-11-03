@@ -80,21 +80,19 @@
 			</div>
 		</div>
 	</div>	
-	<div class="footer">
+<div class="footer">
 		<table  cellspacing="0" cellpadding="10" width= 100% align="center" >
 			<tr >
-			<th style="font-size: 17px" >ATN_KÊNH MUA SẮM & DỊCH VỤ TRỰC TUYẾN HÀNG ĐẦU VIỆT NAM!</th>
-			<th  rowspan="2" > CÔNG TY TNHH ATN <br>
- 													 Giấy CNĐKDN: 289037490 – Ngày cấp: 06/5/2005, được sửa đổi lần thứ 17 ngày 24/7/2017. <br>
+			<th style="font-size: 17px; color:#FFFFFF"  >ATN_KÊNH MUA SẮM & DỊCH VỤ TRỰC TUYẾN HÀNG ĐẦU VIỆT NAM!</th>
+			<th  rowspan="2" style=" color:#FFFFFF" > CÔNG TY TNHH ATN <br>
+ 													Giấy CNĐKDN: 289037490 – Ngày cấp: 06/5/2005, được sửa đổi lần thứ 17 ngày 24/7/2017. <br>
  													Cơ quan cấp: Phòng Đăng ký kinh doanh – Sở kế hoạch và Đầu tư hà Nội. <br>
- 													Địa chỉ đăng ký kinh doanh: Tầng 71, Tòa Nhà Keangnam, E6, Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội, Việt Nam <br>  <br><br>     @ATN 2019
+ 													Địa chỉ đăng ký kinh doanh: Tầng 100, KTX Mỹ Đình, ĐN1, Hàm Nghi, Quận Nam Từ Liêm, Hà Nội, Việt Nam <br>  <br><br>  @ATN 2019
  			</th>
 			</tr>
 			<tr >
-				<td ><div align="center" style="padding-top:0%, width= 20px" >
-					
-				</style>Mua hàng trực tuyến (mua hàng online) mang lại sự tiện lợi, lựa chọn đa dạng hơn và các dịch vụ tốt hơn cho người tiêu dùng, thế nhưng người tiêu dùng Việt Nam vẫn chưa tận hưởng được những tiện ích đó. Chính vì vậy ATN Việt Nam được triển khai với mong muốn trở thành trung tâm mua sắm trực tuyến số 1 tại Việt Nam, nơi bạn có thể chọn lựa mọi thứ để chăm sóc thứ đồ chơi bạn yêu thích.... Chúng tôi có tất cả!</div></td>
-				
+				<td ><div align="center" style="padding-top:0%, width= 20px; color:#FFFFFF" >	
+				</style>Mua hàng trực tuyến (mua hàng online) mang lại sự tiện lợi, lựa chọn đa dạng hơn và các dịch vụ tốt hơn cho người tiêu dùng, thế nhưng người tiêu dùng Việt Nam vẫn chưa tận hưởng được những tiện ích đó. Chính vì vậy ATN Việt Nam được triển khai với mong muốn trở thành trung tâm mua sắm trực tuyến số 1 tại Việt Nam, nơi bạn có thể chọn lựa mọi thứ để chăm sóc thứ đồ chơi bạn yêu thích.... Chúng tôi có tất cả!</div></td>	
 			</tr>
 		</table>
 	</div>
