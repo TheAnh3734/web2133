@@ -9,7 +9,7 @@
 		function Deleteqry(id)
 		{ 
 		  if(confirm("Are you sure you want to delete this product?")==true)
-		           window.location="admin.php?del="+id;
+		           window.location="GitHub/Web-design-master/admin.php="+id;
 		    return false;
 		}
 	</script>
@@ -69,13 +69,13 @@
 	<div class="header">
 		<div class="nava">
 			<ul>
-				<li><a href="https://designweb.herokuapp.com/ATN.php">Trở về giao diện khách hàng</a></li>
+				<li><a href="https://newapppppppppppppp.herokuapp.com/ATN.php">Trở về giao diện khách hàng</a></li>
 			</ul>
 			</div>
 		<div class="banner">
 		 		<div class="Home">
 		 			<p>Giao diện dành riêng cho admin</p>
-					<a href="https://designweb.herokuapp.com/ATN.php">ATN Shop</a>
+					<a href="https://newapppppppppppppp.herokuapp.com/ATN.php">ATN Shop</a>
 				</div>
 				<div class="Search">
 					<div class="Search1">
@@ -119,7 +119,7 @@
 							
 						<?php } ?>
 
-							<th ><a href="https://designweb.herokuapp.com/Suadoi.php?id=<?php echo $rows[$i][0] ?>"><input type="button" value="Update" style=" background-color: #FF7302; text-decoration-color: #FFFFFF;" ></a> 
+							<th ><a href="https://newapppppppppppppp.herokuapp.com/Suadoi.php?id=<?php echo $rows[$i][0] ?>"><input type="button" value="Update" style=" background-color: #FF7302; text-decoration-color: #FFFFFF;" ></a> 
 							</th>
 							<th ><a href="admin.php?del=<?php echo $rows[$i][0] ?>"> <input type="button" value="Delete" style=" background-color: #FF7302; text-decoration-color: #FFFFFF;" onclick="return Deleteqry(<?php echo $rows[$i][0] ?>);"> </a>
 							</th>
@@ -127,7 +127,7 @@
 				<?php } ?>
 			</table> <br> <br>
 			<div>
-				<b><span style="font-size:20px">Thêm Sản phẩm mới:</span></b>   <a href="https://designweb.herokuapp.com/add.php"><input type="button" value="Thêm Sản Phẩm" style=" background-color: #FF7302; text-decoration-color: #FFFFFF; width:25%; height: 30px" ></a> 
+				<b><span style="font-size:20px">Thêm Sản phẩm mới:</span></b>   <a href="https://newapppppppppppppp.herokuapp.com/add.php"><input type="button" value="Thêm Sản Phẩm" style=" background-color: #FF7302; text-decoration-color: #FFFFFF; width:25%; height: 30px" ></a> 
 			</div>
 			
 		</div>
@@ -192,7 +192,7 @@
 								<?php echo $rows[$i][$j]?>
 							</th>
 						<?php } ?>
-							<th ><a href="https://designweb.herokuapp.com/Suadoi.php?id=<?php echo $rows[$i][0] ?>"><input type="button" value="Update" style=" background-color: #FF7302; text-decoration-color: #FFFFFF;" ></a> 
+							<th ><a href="https://newapppppppppppppp.herokuapp.com/Suadoi.php?id=<?php echo $rows[$i][0] ?>"><input type="button" value="Update" style=" background-color: #FF7302; text-decoration-color: #FFFFFF;" ></a> 
 							</th>
 							<th ><a href="admin.php?del=<?php echo $rows[$i][0] ?>"> <input type="button" value="Delete" style=" background-color: #FF7302; text-decoration-color: #FFFFFF;" onclick="return Deleteqry(<?php echo $rows[$i][0] ?>);"> </a>
 							</th>
@@ -200,7 +200,8 @@
 				<?php } ?>
 			</table>
 			<div> <br> <br>
-				<b><span style="font-size:20px">Thêm Loại sản phẩm mới:</span></b>   <a href="https://designweb.herokuapp.com/addcategory.php"><input type="button" value="Thêm Catedory" style=" background-color: #FF7302; text-decoration-color: #FFFFFF; width:25%; height: 30px" ></a> 
+				<b><span style="font-size:20px">Thêm Loại sản phẩm mới:</span></b>  
+				 <a href="https://newapppppppppppppp.herokuapp.com/addcategory.php"><input type="button" value="Thêm Catedory" style=" background-color: #FF7302; text-decoration-color: #FFFFFF; width:25%; height: 30px" ></a> 
 			</div>
 			</form>
 		</div>
@@ -208,23 +209,7 @@
 
 
 	</div>
-	<div class="footer">
-		<table  cellspacing="0" cellpadding="10" width= 100% align="center" >
-			<tr >
-			<th style="font-size: 17px; color:#FFFFFF"  >ATN_KÊNH MUA SẮM & DỊCH VỤ TRỰC TUYẾN HÀNG ĐẦU VIỆT NAM!</th>
-			<th  rowspan="2" style=" color:#FFFFFF" > CÔNG TY TNHH ATN <br>
- 													Giấy CNĐKDN: 289037490 – Ngày cấp: 06/5/2005, được sửa đổi lần thứ 17 ngày 24/7/2017. <br>
- 													Cơ quan cấp: Phòng Đăng ký kinh doanh – Sở kế hoạch và Đầu tư hà Nội. <br>
- 													Địa chỉ đăng ký kinh doanh: Tầng 71, Tòa Nhà Keangnam, E6, Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội, Việt Nam <br>  <br><br>    @ATN 2019
- 			</th>
-			</tr>
-			<tr >
-				<td ><div align="center" style="padding-top:0%, width= 20px; color:#FFFFFF" >	
-				</style>Mua hàng trực tuyến (mua hàng online) mang lại sự tiện lợi, lựa chọn đa dạng hơn và các dịch vụ tốt hơn cho người tiêu dùng, thế nhưng người tiêu dùng Việt Nam vẫn chưa tận hưởng được những tiện ích đó. Chính vì vậy ATN Việt Nam được triển khai với mong muốn trở thành trung tâm mua sắm trực tuyến số 1 tại Việt Nam, nơi bạn có thể chọn lựa mọi thứ để chăm sóc thứ đồ chơi bạn yêu thích.... Chúng tôi có tất cả!</div></td>	
-			</tr>
-		</table>
-	</div>
-
+	
 
 </body>
 </html>
