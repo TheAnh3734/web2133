@@ -200,12 +200,12 @@
 				<?php } ?>
 			</table>
 			<div> <br> <br>
-<<<<<<< HEAD
+
 				<b><span style="font-size:20px">Thêm Loại sản phẩm mới:</span></b>  
 				 <a href="https://newapppppppppppppp.herokuapp.com/addcategory.php"><input type="button" value="Thêm Catedory" style=" background-color: #FF7302; text-decoration-color: #FFFFFF; width:25%; height: 30px" ></a> 
 =======
 				<b><span style="font-size:20px">Thêm Loại sản phẩm mới:</span></b>   <a href="https://newapppppppppppppp.herokuapp.com/addcategory.php"><input type="button" value="Thêm Catedory" style=" background-color: #FF7302; text-decoration-color: #FFFFFF; width:25%; height: 30px" ></a> 
->>>>>>> fd7e3b611e9b512b2d7c5cb021543c78ae39aa34
+
 			</div>
 			</form>
 		</div>
