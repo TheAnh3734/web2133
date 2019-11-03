@@ -9,7 +9,7 @@
 		function Deleteqry(id)
 		{ 
 		  if(confirm("Are you sure you want to delete this product?")==true)
-		           window.location="admin.php?del="+id;
+		           window.location="GitHub/Web-design-master/admin.php="+id;
 		    return false;
 		}
 	</script>
@@ -119,7 +119,7 @@
 							
 						<?php } ?>
 
-							<th ><a href="https://designweb.herokuapp.com/Suadoi.php?id=<?php echo $rows[$i][0] ?>"><input type="button" value="Update" style=" background-color: #FF7302; text-decoration-color: #FFFFFF;" ></a> 
+							<th ><a href="https://newapppppppppppppp.herokuapp.com/Suadoi.php?id=<?php echo $rows[$i][0] ?>"><input type="button" value="Update" style=" background-color: #FF7302; text-decoration-color: #FFFFFF;" ></a> 
 							</th>
 							<th ><a href="admin.php?del=<?php echo $rows[$i][0] ?>"> <input type="button" value="Delete" style=" background-color: #FF7302; text-decoration-color: #FFFFFF;" onclick="return Deleteqry(<?php echo $rows[$i][0] ?>);"> </a>
 							</th>
