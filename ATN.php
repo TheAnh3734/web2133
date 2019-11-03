@@ -94,7 +94,7 @@
 			<th  rowspan="2" style=" color:#FFFFFF" > CÔNG TY TNHH ATN <br>
  													Giấy CNĐKDN: 289037490 – Ngày cấp: 06/5/2005, được sửa đổi lần thứ 17 ngày 24/7/2017. <br>
  													Cơ quan cấp: Phòng Đăng ký kinh doanh – Sở kế hoạch và Đầu tư hà Nội. <br>
- 													Địa chỉ đăng ký kinh doanh: Tầng 71, Tòa Nhà Keangnam, E6, Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội, Việt Nam <br>  <br><br>  @ATN 2019
+ 													Địa chỉ đăng ký kinh doanh: Tầng 100, KTX Mỹ Đình, ĐN1, Hàm Nghi, Quận Nam Từ Liêm, Hà Nội, Việt Nam <br>  <br><br>  @ATN 2019
  			</th>
 			</tr>
 			<tr >
