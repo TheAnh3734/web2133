@@ -10,16 +10,16 @@
 	<div class="header">
 			<div class="nava">
 			<ul>
-				<li><a href="https://designweb.herokuapp.com/ATN.php">Trang chủ</a></li>
+				<li><a href="https://newapppppppppppppp.herokuapp.com/ATN.php">Trang chủ</a></li>
 				<li><a href="">Kiểm tra đơn hàng</a></li>
 				<li><a href="">Đăng nhập</a></li>
-				<li><a href="https://designweb.herokuapp.com/Dangkykh.php">đăng ký</a></li>
-				<li><a href="https://designweb.herokuapp.com/admin.php">Admin</a></li>
+				<li><a href="https://newapppppppppppppp.herokuapp.com/Dangkykh.php">đăng ký</a></li>
+				<li><a href="https://newapppppppppppppp.herokuapp.com/admin.php">Admin</a></li>
 			</ul>
 			</div>
 		 	<div class="banner">
 		 		<div class="Home">
-					<a href="https://designweb.herokuapp.com/ATN.php">ATN Shop</a>
+					<a href="https://newapppppppppppppp.herokuapp.com//ATN.php">ATN Shop</a>
 				</div>
 				<div class="Search">
 					<div class="Search1">
