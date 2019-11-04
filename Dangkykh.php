@@ -10,7 +10,7 @@
 	<div class="header">
 			<div class="nava">
 			<ul>
-				<li><a href="https://designweb.herokuapp.com/ATN.php">Trang chủ</a></li>
+				<li><a href="https://newapppppppppppppp.herokuapp.com/ATN.php">Trang chủ</a></li>
 				<li><a href="">Kiểm tra đơn hàng</a></li>
 				<li><a href="">Đăng nhập</a></li>
 				<li><a href="https://newapppppppppppppp.herokuapp.com/Dangkykh.php">đăng ký</a></li>
